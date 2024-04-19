@@ -19,6 +19,7 @@
 - Now once you setup an application on Unsplash, Please clone the repository
 - Open a "AppKeyConstants" file from the project navigator 
 - Please replace your "Access Key" with the value of "unsplashClientId" property
+- Please select a simulator first before build your application to run. And if you want to run an application on your device then please provide appropriate BundleID and select a team from 'Signing & Capabilities' tab of your application's target
 - Build and run the project!
 
 ## Unsplash APIs
