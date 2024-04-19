@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/chintanMaisuriya/Imagify/assets/38044758/e5f68d2c-8c29-4643-9832-cb737a92b790" width="250px"/><br/>
 </h1>
-<p align="center"><h2>Imagify</h2><br>A simple to efficiently load and display images in a scrollable grid using the Unsplash API.</p>
+<p align="center">A simple to efficiently load and display images in a scrollable grid using the Unsplash API.</p>
 
 [![platform-ios](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://developer.apple.com/)
 [![Xcode Version](https://img.shields.io/badge/Xcode-14.2-red.svg?style=flat-square)](https://developer.apple.com/)
